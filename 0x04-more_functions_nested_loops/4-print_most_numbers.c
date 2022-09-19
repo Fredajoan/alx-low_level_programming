@@ -9,7 +9,7 @@
  */
 
 void print_most_numbers(void)
-{
+{0x04
 	int number;
 
 	for (number = '0'; number <= '9'; number++)
